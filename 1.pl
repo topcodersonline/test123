@@ -1,4 +1,4 @@
-print "tet";
+
 my $host = `hostname`;
 chop($host);
 my $prompt = "$ENV{USER}\@$host";
